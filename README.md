@@ -13,6 +13,9 @@ This contains the model and code for training the NVIDIA steering model on [the 
 
 Usage:
 Training: `python train.py`
+
+
 Running: `python run.py --image_path <path_to_image> --type <visualization_type>`
+
 
 visualization_type can be cam/hypercolumns/occlusion.
